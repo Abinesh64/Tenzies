@@ -1,2 +1,2 @@
 # Tenzies
-Link: https://chimerical-granita-ed4513.netlify.app/
+Application link: https://tensies-game.netlify.app
